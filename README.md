@@ -1,56 +1,49 @@
+<div align="center">
 
+# ARNAV RAHA
 
-<h1 align="center">Hi, I'm Arnav Raha 👋</h1>
-<h3 align="center">Cybersecurity • Blue Team • Security Investigation</h3>
+### Cybersecurity Student · Blue Team Enthusiast
 
-<p align="center">
-  Computer Science student specializing in Cybersecurity, building practical projects in network security,
-  email analysis, and digital investigation.
+*Interested in SOC operations, network security, and email threat investigation.*
+
+<p>
+  <a href="https://github.com/arnavraha04">
+    <img src="https://img.shields.io/badge/GitHub-arnavraha04-171923?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
+  </a>
+  <a href="https://linkedin.com/in/arnav-raha">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-283A75?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+  </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/arnavraha04">GitHub</a> •
-  <a href="https://linkedin.com/in/arnav-raha">LinkedIn</a>
-</p>
+</div>
 
 ---
 
-## 🔐 Focus Areas
+## `01` — About
 
-- Security Operations Center (SOC) and Blue Team fundamentals
-- Network security and port risk analysis
-- Email security and spam analysis
-- Digital investigation and telecom-record analysis
-- Python scripting and security tooling
+I'm a Computer Science student specializing in Cybersecurity, building my knowledge through hands-on projects and technical practice.
 
-## 🚀 Featured Projects
+My current interests include **SOC operations, Blue Team security, network security, and email threat investigation**.
 
-### [CIRAS — Cybercrime Investigation & Record Analysis System](https://github.com/arnavraha04/CIRAS)
-An intelligence-driven telecom investigation platform for analyzing call detail records (CDR), IP detail records (IPDR), device relationships, communication networks, tower movement patterns, and investigation risk indicators.
+## `02` — Technical Toolkit
 
-### [NetAudit](https://github.com/arnavraha04/NetAudit)
-A Python command-line network auditing tool inspired by common network-scanning workflows, with scan options, service identification, and port risk analysis.
+<p>
+  <img src="https://img.shields.io/badge/Python-181B2B?style=flat-square&logo=python&logoColor=8B9DFF" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux-181B2B?style=flat-square&logo=linux&logoColor=8B9DFF" alt="Linux" />
+  <img src="https://img.shields.io/badge/Networking_Fundamentals-181B2B?style=flat-square&logo=cisco&logoColor=8B9DFF" alt="Networking fundamentals" />
+  <img src="https://img.shields.io/badge/Git_%26_GitHub-181B2B?style=flat-square&logo=github&logoColor=8B9DFF" alt="Git and GitHub" />
+</p>
 
-### [Email Spam Analysis System](https://github.com/arnavraha04/Email-Spam-Analysis-System)
-An email-focused project exploring spam detection and text analysis. See the repository README for the implemented approach, setup, and usage.
+## `03` — Current Focus
 
-## 🧰 Tools & Technologies
-
-- **Programming:** Python
-- **Data analysis:** Pandas, NetworkX, Plotly
-- **Security and networking:** Nmap, Wireshark, Nessus
-- **Platforms:** Kali Linux, Ubuntu
-- **Version control:** Git, GitHub
-
-## 📌 What You'll Find Here
-
-Hands-on cybersecurity projects, practical experiments, and documentation focused on understanding how security tools and investigation workflows work.
-
-## 🤝 Connect
-
-- LinkedIn: https://linkedin.com/in/arnav-raha
-- GitHub: https://github.com/arnavraha04
+- Strengthening cybersecurity and networking fundamentals.
+- Practising through Python-based security projects.
+- Learning more about defensive security and investigation workflows.
 
 ---
 
-<p align="center"><i>Learning by building, testing, and documenting.</i></p>
+<div align="center">
+
+<sub>Learning by building, testing, and documenting.</sub>
+
+</div>
