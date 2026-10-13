@@ -1,6 +1,7 @@
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=ARNAV+RAHA" alt="Arnav Raha animated heading" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=3000&color=58A6FF&center=true&vCenter=true&width=600&lines=ARNAV+RAHA" alt="Arnav Raha animated heading" />
 
 ### Cybersecurity Student · Blue Team Enthusiast
 
