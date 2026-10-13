@@ -1,7 +1,8 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DA8B25,100:8E2A70&height=180&section=header&text=ARNAV%20RAHA&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Cybersecurity%20Student%20%7C%20Blue%20Team%20Enthusiast&descSize=18&descAlignY=62" width="100%" alt="Arnav Raha — Cybersecurity Student | Blue Team Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=600&lines=ARNAV+RAHA" alt="Arnav Raha animated heading" />
+
+### Cybersecurity Student · Blue Team Enthusiast
 
 *Interested in SOC operations, network security, and email threat investigation.*
 
