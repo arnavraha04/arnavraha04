@@ -5,7 +5,7 @@
 
 ### Cybersecurity Student · Blue Team Enthusiast
 
-*Interested in SOC operations, network security, and email threat investigation.*
+*Interested in learning more about SOC operations, network security, and email threat investigation.*
 
 <p>
   <a href="https://linkedin.com/in/arnav-raha">
